@@ -1,0 +1,7 @@
+C:\Users\mutch\source\repos\ShapeCalculator\ShapeCalculator\bin\Debug\ShapeCalculator.exe.config
+C:\Users\mutch\source\repos\ShapeCalculator\ShapeCalculator\bin\Debug\ShapeCalculator.exe
+C:\Users\mutch\source\repos\ShapeCalculator\ShapeCalculator\bin\Debug\ShapeCalculator.pdb
+C:\Users\mutch\source\repos\ShapeCalculator\ShapeCalculator\obj\Debug\ShapeCalculator.csproj.AssemblyReference.cache
+C:\Users\mutch\source\repos\ShapeCalculator\ShapeCalculator\obj\Debug\ShapeCalculator.csproj.CoreCompileInputs.cache
+C:\Users\mutch\source\repos\ShapeCalculator\ShapeCalculator\obj\Debug\ShapeCalculator.exe
+C:\Users\mutch\source\repos\ShapeCalculator\ShapeCalculator\obj\Debug\ShapeCalculator.pdb
